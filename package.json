@@ -1,6 +1,6 @@
 {
   "name": "liuz-vue-cookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Vue.js plugin for manipulating cookies",
   "author": "Liu Zhuan <liuzhuankyzy@gmail.com>",
   "private": false,
