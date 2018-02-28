@@ -1,8 +1,8 @@
 {
   "name": "liuz-vue-cookie",
-  "version": "1.1.5",
+  "version": "0.0.1",
   "description": "A Vue.js plugin for manipulating cookies",
-  "author": "Alf Henderson <alfhenderson@gmail.com>",
+  "author": "Liu Zhuan <liuzhuankyzy@gmail.com>",
   "private": false,
   "main": "src/vue-cookie.js",
   "license": "MIT",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alfhen/vue-cookie.git"
+    "url": "https://github.com/liuzhuan/vue-cookie.git"
   },
   "dependencies": {
     "tiny-cookie": "^1.0.1"
